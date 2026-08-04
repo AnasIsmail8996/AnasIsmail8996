@@ -10,7 +10,7 @@
 
 <p align="center">
   💻 <b>Full Stack (MERN) Developer</b> | 📱 <b>React Native Developer (Android & iOS)</b><br>
-  ⚡ <b>Next.js & Cloud Specialist</b> | 🏢 Working at <b>Appoint Digital Ltd</b><br>
+  ⚡ <b>Next.js & Cloud Specialist</b> | 🏢 Working at <b>A_____ D_____ Ltd</b><br>
   🌍 Based in <b>Karachi, Pakistan</b>
 </p>
 
