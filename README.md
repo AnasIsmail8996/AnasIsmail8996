@@ -79,7 +79,7 @@
 * Managed secure environments with Docker containers and automated CI/CD flows.
 
 ### 📚 SMIT / Techzify Bootcamp | Full Stack Trainee
-> **Core Engineering Foundations (2024 - 2026)**
+> **Core Engineering Foundations (2022 - 2026)**
 * Developed comprehensive full-stack clones and custom business apps.
 * Mastered state management, relational/non-relational database modeling, and fundamental cloud concepts.
 
