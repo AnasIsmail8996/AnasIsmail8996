@@ -73,15 +73,28 @@
 ## 🎯 Professional Journey
 
 ### 🏢 A____ D____ Ltd | Full Stack Developer
-> **Production Systems & DevOps Integration**
-* Designed microservices-ready architectures and RESTful APIs.
-* Optimized frontend load times using Next.js SSR/ISR and state caching.
-* Managed secure environments with Docker containers and automated CI/CD flows.
+> **Production Systems, Mobile Apps & Cloud Delivery** · *Present*
+* Building and shipping production-ready **MERN** web apps and **React Native** (Android & iOS) products end-to-end.
+* Designing scalable **RESTful APIs**, secure **JWT** auth flows, role-based access, and real-time features with **Socket.io**.
+* Optimizing frontend performance with **Next.js** (SSR / ISR), caching strategies, and modern state tools (**Redux**, **Zustand**, **React Query**).
+* Integrating **MongoDB** / **PostgreSQL** (Prisma), **Firebase**, and third-party services for reliable data & auth layers.
+* Owning DevOps delivery: **Docker**, **GitHub Actions** CI/CD, **Nginx**, **PM2**, and **AWS** (EC2, S3, Lambda, Route 53).
+* Collaborating on system architecture, code quality, API contracts, and production monitoring for client-facing platforms.
 
 ### 📚 SMIT / Techzify Bootcamp | Full Stack Trainee
-> **Core Engineering Foundations (2022 - 2026)**
-* Developed comprehensive full-stack clones and custom business apps.
-* Mastered state management, relational/non-relational database modeling, and fundamental cloud concepts.
+> **Core Engineering Foundations** · *2022 – 2026*
+* Completed intensive full-stack training covering JavaScript, React, Node.js, Express, and database fundamentals.
+* Built end-to-end projects: e-commerce clones, dashboards, auth systems, and custom business web apps.
+* Practiced relational & non-relational modeling (**MongoDB**, **SQL**), REST API design, and clean component architecture.
+* Strengthened skills in state management, form handling, API integration, Git workflows, and cloud deployment basics.
+* Grew from trainee projects into production engineering practices used in real client work today.
+
+### 🛠️ What I Focus On
+* **Web:** Next.js, React, TypeScript, Tailwind / MUI / shadcn
+* **Mobile:** React Native & Expo for cross-platform Android / iOS apps
+* **Backend:** Node.js, Express, GraphQL, JWT security, Socket.io
+* **Cloud & Ops:** AWS, Docker, CI/CD, Linux server management
+* **Mindset:** Clean code, scalable architecture, performance, and shipping reliable products
 
 ---
 
