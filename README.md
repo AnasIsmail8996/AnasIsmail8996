@@ -20,7 +20,7 @@
 
 ### 💼 Current Position & Impact
 
-**Full Stack (MERN) Developer** at **Appoint Digital Ltd**
+**Full Stack (MERN) Developer** at **A____ D____ Ltd**
 * Building production-ready, scalable full-stack web and mobile systems.
 * Designing high-performance RESTful APIs and secure JWT architectures.
 * Implementing CI/CD pipelines, Docker containerization, and AWS cloud management.
@@ -72,7 +72,7 @@
 
 ## 🎯 Professional Journey
 
-### 🏢 Appoint Digital Ltd | Full Stack Developer
+### 🏢 A____ D____ Ltd | Full Stack Developer
 > **Production Systems & DevOps Integration**
 * Designed microservices-ready architectures and RESTful APIs.
 * Optimized frontend load times using Next.js SSR/ISR and state caching.
