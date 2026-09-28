@@ -20,7 +20,7 @@
 
 ### 💼 Current Position & Impact
 
-**Full Stack (MERN) Developer** at **A____ D____ Ltd**
+**Full Stack (MERN) Developer** at **APPOINT DIGITAL Ltd**
 * Building production-ready, scalable full-stack web and mobile systems.
 * Designing high-performance RESTful APIs and secure JWT architectures.
 * Implementing CI/CD pipelines, Docker containerization, and AWS cloud management.
