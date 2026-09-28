@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Anas Ismail
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F59E0B&width=800&center=true&vCenter=true&lines=Full+Stack+MERN+Developer;React+Native+Mobile+App+Developer;Next.js+%7C+React+%7C+Node.js+Specialist;A___+D___+Ltd+Engineer;Building+Scalable+Web+%26+Mobile+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F59E0B&width=800&center=true&vCenter=true&lines=Full+Stack+MERN+Developer;React+Native+Mobile+App+Developer;Next.js+%7C+React+%7C+Node.js+Specialist;APPIONT+DIGITAL+Ltd+Engineer;Building+Scalable+Web+%26+Mobile+Apps" alt="Typing SVG" />
 
 ---
 
@@ -10,7 +10,7 @@
 
 <p align="center">
   💻 <b>Full Stack (MERN) Developer</b> | 📱 <b>React Native Developer (Android & iOS)</b><br>
-  ⚡ <b>Next.js & Cloud Specialist</b> | 🏢 Working at <b>A_____ D_____ Ltd</b><br>
+  ⚡ <b>Next.js & Cloud Specialist</b> | 🏢 Working at <b>APPOINT DIGITAL Ltd</b><br>
   🌍 Based in <b>Karachi, Pakistan</b>
 </p>
 
@@ -72,7 +72,7 @@
 
 ## 🎯 Professional Journey
 
-### 🏢 A____ D____ Ltd | Full Stack Developer
+### 🏢 APPOINT DIGITAL Ltd | Full Stack Developer
 > **Production Systems, Mobile Apps & Cloud Delivery** · *Present*
 * Building and shipping production-ready **MERN** web apps and **React Native** (Android & iOS) products end-to-end.
 * Designing scalable **RESTful APIs**, secure **JWT** auth flows, role-based access, and real-time features with **Socket.io**.
