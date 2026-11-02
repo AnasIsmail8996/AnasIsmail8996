@@ -2,7 +2,9 @@
 
 # 👋 Hi, I'm Anas Ismail
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F59E0B&width=800&center=true&vCenter=true&lines=Full+Stack+MERN+Developer;React+Native+Mobile+App+DevOps Developer;Next.js+%7C+React+%7C+Node.js+Specialist;APPIONT+DIGITAL+Ltd+Engineer;Building+Scalable+Web+%26+Mobile+Apps" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=900&height=60&lines=Full+Stack+MERN+Developer;React+Native+%7C+Expo+Developer;Mobile+App+DevOps+%7C+CI%2FCD+Engineer;Next.js+%7C+React+%7C+Node.js+Specialist;APPIONT+DIGITAL+Ltd+%7C+Software+Engineer;Building+Scalable+Web+%26+Mobile+Apps" alt="Typing SVG" />
+
 
 ---
 
