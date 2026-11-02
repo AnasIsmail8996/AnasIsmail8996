@@ -1,121 +1,183 @@
 <div align="center">
 
-# 👋 Hi, I'm Anas Ismail
+# Hey there, I'm Anas Ismail 👋
 
+<a href="https://github.com/AnasIsmail8996"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=820&height=55&lines=Full+Stack+MERN+Developer;React+Native+%26+Expo+Developer;Mobile+DevOps+%7C+CI%2FCD;Next.js+%7C+React+%7C+Node.js;Building+Scalable+Web+%26+Mobile+Apps" alt="Animated introduction" /></a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=900&height=60&lines=Full+Stack+MERN+Developer;React+Native+%7C+Expo+Developer;Mobile+App+DevOps+%7C+CI%2FCD+Engineer;Next.js+%7C+React+%7C+Node.js+Specialist;APPIONT+DIGITAL+Ltd+%7C+Software+Engineer;Building+Scalable+Web+%26+Mobile+Apps" alt="Typing SVG" />
+**Full Stack Developer · React Native / Expo · Cloud & DevOps**
 
+📍 Karachi, Pakistan · 🏢 APPOINT DIGITAL Ltd
 
----
+[![Portfolio on GitHub](https://img.shields.io/badge/Explore-My%20Projects-F59E0B?style=for-the-badge&logo=github&logoColor=black)](https://github.com/AnasIsmail8996?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anas-ismail-ai)
+[![Email](https://img.shields.io/badge/Let's%20Talk-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasismailhz@gmail.com)
 
-### 🚀 About Me
+**[About](#-about-me) · [Projects](#-featured-project) · [Tech Stack](#-tech-stack) · [DevOps](#-my-devops-workflow) · [Stats](#-github-insights) · [Contact](#-lets-connect)**
 
-<p align="center">
-  💻 <b>Full Stack (MERN) Developer</b> | 📱 <b>React Native Developer (Android & iOS)</b><br>
-  ⚡ <b>Next.js & Cloud Specialist</b> | 🏢 Working at <b>APPOINT DIGITAL Ltd</b><br>
-  🌍 Based in <b>Karachi, Pakistan</b>
-</p>
-
-> 🧠 Passionate about clean code, system architecture, performance optimization, and building scalable global products.
+</div>
 
 ---
 
-### 💼 Current Position & Impact
+## 🚀 About Me
 
-**Full Stack (MERN) Developer || DevOps** at **APPOINT DIGITAL Ltd**
-* Building production-ready, scalable full-stack web and mobile systems.
-* Designing high-performance RESTful APIs and secure JWT architectures.
-* Implementing CI/CD pipelines, Nginx,  Docker containerization, and AWS cloud management.
+I build production-ready **web and mobile applications** with the MERN stack, **Next.js**, **React Native / Expo**, and modern cloud tooling. I care about clean architecture, fast user experiences, reliable APIs, and repeatable releases.
 
----
+- 💼 **Current focus:** Full-stack development, Android/iOS apps, CI/CD and cloud delivery at **APPOINT DIGITAL Ltd**
+- 🛠️ **I work with:** React, Next.js, TypeScript, Node.js, MongoDB, PostgreSQL and AWS
+- 📱 **Mobile:** React Native, Expo, EAS Build and release workflows
+- 🎯 **Goal:** Ship scalable products that feel great to use
 
-## ⚡ Tech Stack & Ecosystem
+<details>
+<summary><b>👀 Click to see more about my approach</b></summary>
+<br>
 
-### 🌐 Frontend & Web Core
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+- **Build:** Accessible interfaces, reusable components and secure APIs
+- **Ship:** Version-controlled code, automated checks and reproducible builds
+- **Improve:** Monitor errors, optimize performance and iterate from feedback
 
-### 🧠 React & State Ecosystem
-<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/Zustand-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" /> <img src="https://img.shields.io/badge/Axios-purple?style=for-the-badge" /> <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+</details>
 
-### 📱 Mobile Development
-<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/expo-%23000020.svg?style=for-the-badge&logo=expo&logoColor=white" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+## 📱 Featured Project
 
-### 🔥 Backend & Databases
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodesdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white" />
+<a href="https://github.com/AnasIsmail8996/vela"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AnasIsmail8996&repo=vela&theme=tokyonight&hide_border=true" alt="Vela repository card" /></a>
 
-### ⚡ Backend-as-a-Service (Firebase)
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" /> <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Cloud%20Functions-FFCC00?style=for-the-badge&logo=Firebase&logoColor=white" />
+**Vela** — React Native + Expo mobile app.
 
-### 🚀 DevOps, Cloud & Deployment
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" /> <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/pm2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
+[![View Source](https://img.shields.io/badge/View-Vela%20Source-181717?style=flat-square&logo=github)](https://github.com/AnasIsmail8996/vela)
+[![More Repositories](https://img.shields.io/badge/See-All%20Projects-F59E0B?style=flat-square&logo=github&logoColor=black)](https://github.com/AnasIsmail8996?tab=repositories)
 
-### ☁️ AWS Cloud Infrastructure
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" /> <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon%20Route%2053-8C4FFF?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<details>
+<summary><b>📦 Click to view my mobile release workflow</b></summary>
+<br>
 
-### 🎨 UI Frameworks & Tools
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" /> <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" /> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+```text
+Code changes → Git push → CI checks → EAS Build → APK / Store release
+                                   ↘ compatible JS updates → EAS Update
+```
 
-### 📦 Testing, Optimization & Advanced
-<img src="https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=progressive-web-apps&logoColor=white" />
+- **Preview:** Android APK for internal testing
+- **Production:** Android AAB / iOS production build for store submission
+- **OTA:** Compatible JavaScript and asset updates using EAS Update when configured
 
----
+</details>
 
-## 📈 GitHub Metrics
+## ⚡ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=AnasIsmail8996&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Anas's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AnasIsmail8996&layout=compact&theme=radical&border_radius=10" alt="Top Langs" width="48%" />
-</p>
+<details open>
+<summary><b>🌐 Frontend & Mobile</b></summary>
+<br>
 
-### 🐍 Contribution Activity
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
----
+</details>
 
-## 🎯 Professional Journey
+<details>
+<summary><b>🔥 Backend, Database & Realtime</b></summary>
+<br>
 
-### 🏢 APPOINT DIGITAL Ltd | Full Stack Developer
-> **Production Systems, Mobile Apps & Cloud Delivery** · *Present*
-* Building and shipping production-ready **MERN** web apps and **React Native** (Android & iOS) products end-to-end.
-* Designing scalable **RESTful APIs**, secure **JWT** auth flows, role-based access, and real-time features with **Socket.io**.
-* Optimizing frontend performance with **Next.js** (SSR / ISR), caching strategies, and modern state tools (**Redux**, **Zustand**, **React Query**).
-* Integrating **MongoDB** / **PostgreSQL** (Prisma), **Firebase**, and third-party services for reliable data & auth layers.
-* Owning DevOps delivery: **Docker**, **GitHub Actions** CI/CD, **Nginx**, **PM2**, and **AWS** (EC2, S3, Lambda, Route 53).
-* Collaborating on system architecture, code quality, API contracts, and production monitoring for client-facing platforms.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-### 📚 SMIT / Techzify Bootcamp | Full Stack Trainee
-> **Core Engineering Foundations** · *2022 – 2026*
-* Completed intensive full-stack training covering JavaScript, React, Node.js, Express, and database fundamentals.
-* Built end-to-end projects: e-commerce clones, dashboards, auth systems, and custom business web apps.
-* Practiced relational & non-relational modeling (**MongoDB**, **SQL**), REST API design, and clean component architecture.
-* Strengthened skills in state management, form handling, API integration, Git workflows, and cloud deployment basics.
-* Grew from trainee projects into production engineering practices used in real client work today.
+</details>
 
-### 🛠️ What I Focus On
-* **Web:** Next.js, React, TypeScript, Tailwind / MUI / shadcn
-* **Mobile:** React Native & Expo for cross-platform Android / iOS apps
-* **Backend:** Node.js, Express, GraphQL, JWT security, Socket.io
-* **Cloud & Ops:** AWS, Docker, CI/CD, Linux server management
-* **Mindset:** Clean code, scalable architecture, performance, and shipping reliable products
+<details>
+<summary><b>☁️ DevOps, Cloud & Tools</b></summary>
+<br>
 
----
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 🌐 Connect & Collaborate
+</details>
 
-<p align="center">
-  <a href="https://linkedin.com/in/anas-ismail-ai"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:anasismailhz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/AnasIsmail8996"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+## 🔁 My DevOps Workflow
 
-<p align="center">
-  📍 Karachi, Pakistan | 📱 +92 321 8996191
-</p>
+```mermaid
+flowchart LR
+    A[Code in Cursor] --> B[GitHub Push]
+    B --> C[CI: Lint & Tests]
+    C --> D{Release type?}
+    D -->|Native changes| E[EAS Build]
+    E --> F[APK / App Stores]
+    D -->|Compatible JS changes| G[EAS Update]
+    F --> H[Monitor & Improve]
+    G --> H
+```
 
----
+<details>
+<summary><b>🛠️ Click to see the pipeline stages</b></summary>
+<br>
 
-<p align="center">
-  <b>⭐ "Code. Learn. Build. Deploy. Repeat 🚀"</b>
-</p>
+1. **Develop:** Work in feature branches and review changes.
+2. **Integrate:** Run lint, types and tests before merging.
+3. **Build:** Create Android or iOS binaries when native dependencies change.
+4. **Deliver:** Distribute preview builds or submit production builds for review.
+5. **Observe:** Investigate crashes and performance regressions.
+
+</details>
+
+## 📈 GitHub Insights
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnasIsmail8996&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasIsmail8996&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" height="165" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=AnasIsmail8996&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>
+
+> Note: These cards depend on third-party services and may occasionally be unavailable.
+
+## 💼 Professional Journey
+
+<details>
+<summary><b>🏢 APPOINT DIGITAL Ltd — Full Stack Developer / DevOps</b></summary>
+<br>
+
+- Building full-stack MERN web and React Native apps
+- Designing REST APIs, authentication and real-time features
+- Working with Docker, CI/CD, Nginx and AWS infrastructure
+- Optimizing app reliability, performance and architecture
+
+</details>
+
+<details>
+<summary><b>🎓 SMIT / Techzify Bootcamp — Full Stack Trainee (2022–2026)</b></summary>
+<br>
+
+- JavaScript, React, Node.js, Express and databases
+- E-commerce projects, dashboards and authentication systems
+- Git workflows, API integration and deployment foundations
+
+</details>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anas-ismail-ai)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasismailhz@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnasIsmail8996)
+
+**⭐ Code. Learn. Build. Deploy. Repeat. 🚀**
+
+[⬆ Back to Top](#hey-there-im-anas-ismail-)
 
 </div>
